@@ -27,7 +27,6 @@ public class s1 {
             if(a<4){
                 a=0;
                 time+=2;
-
             }
             else{
                 a-=6;
