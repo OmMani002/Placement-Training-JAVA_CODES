@@ -20,7 +20,7 @@ public class s1 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {1 , 7, 9, 8, 5, 4};
+        int[] arr = {1, 7, 9, 8, 5, 4};
         int n = arr.length;
         reverseSort(arr, n);
     }
