@@ -23,7 +23,7 @@ public class s1 {
             System.out.println("");
         }
     }
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner in  = new Scanner(System.in);
         String s = in.nextLine();
         helloPattern(s,s.length());
